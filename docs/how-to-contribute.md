@@ -41,16 +41,16 @@
 
 下载我们准备好的wiki设计模板 >
 
-下载LOGO素材 >
+[下载LOGO素材 >](https://www.nebulas.io/docs/NEBULAS-LOGO-SVG.zip)
 
-如有问题请直接在github上提issue > (wiki那个库)
+[如有问题请直接在github上提issue >](https://github.com/nebulasio/wiki.git)
 
 ## User Groups
 当前星云有多个交流平台，参见官网社区板块：[https://nebulas.io/community.html](https://nebulas.io/community.html)
 Discord：综合，可以订阅新闻，可以参与分组讨论，推荐使用Discord
-邮件组：核心开发者讨论区，推荐开发者订阅
+[邮件组：核心开发者讨论区，推荐开发者订阅](https://lists.nebulas.io/cgi-bin/mailman/listinfo)
 
-论坛讨论：Reddit/r/nebulas（综合）、Reddit/r/nasdev（开发者）
+论坛讨论：[Reddit/r/nebulas（综合）](https://www.reddit.com/r/nebulas/)、[Reddit/r/nasdev（开发者）](https://www.reddit.com/r/nasdev/)
 
 在线交流：Slack（开发者）、Telegram（非开发者）
 
