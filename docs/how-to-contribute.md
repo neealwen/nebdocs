@@ -38,7 +38,8 @@ We welcome UI developers to optimize our wiki page and make it more user friendl
 
 Download our wiki > (design template)
 
-Download LOGO material >
+[Download LOGO material >](https://www.nebulas.io/docs/NEBULAS-LOGO-SVG.zip)
+
 If you have any question or comments, please do not hesitate to post on our github.
 
 ## b. User Groups
@@ -46,15 +47,17 @@ Nebulas utilizes several platforms to connect our global community. Please refer
 
 Discord: Available for all community members. You can subscribe to Nebulas News as well as participate in group discussion. Discord is many users first choice.
 
-Mailing lists: Discussion group for core development and bug reporting. We welcome developers to subscribe.
+[Mailing lists](https://lists.nebulas.io/cgi-bin/mailman/listinfo): Discussion group for core development and bug reporting. We welcome developers to subscribe.
 
-Forum: Reddit/r/nebulas (for all), Reddit/r/nasdev(for developers)
-Communication: Slack(for developers),Telegram(for non-developers)
+Forum: [Reddit/r/nebulas](https://www.reddit.com/r/nebulas/) (for all), [Reddit/r/nasdev](https://www.reddit.com/r/nasdev/)(for developers)
+
+Communication: [Slack](https://nebulasio.herokuapp.com/)(for developers),[Telegram](https://nebulasio.herokuapp.com/)(for non-developers)
+
 We welcome community developers to create an IRC(Internet Relay Chat) for better communication with developers.
 
 ## c. Bounties
 Nebulas Bounty rewards includes:
-Developer Bounty：please refers to the Developer Bounty List
+Developer Bounty：[please refers to the Developer Bounty List >](https://www.nebulas.io/cn/developers.html)
 Wiki Bounty: Based on the contribution, we will give different sized rewards to the users who greatly contribute to the Nebulas Wiki based on Github activity. For example, the reward for translating Nebulas Yellow Paper will be 200 NAS. The deadline of first evaluation is Dec. 31, 2018. The specific reward amount and number of recipients will be public.Based on the participation, this will help adjust the reward size in the future.
 ## d. Donation
 We welcome donations from the community for developing Nebulas. Both NAS and ETH are accepted. We also welcome community members to support us in material terms. For example, the donation of meetup locations, local guide,photography, etc.. We can also make your contribution known to the community if you like. If you are an enthusiastic community member and are willing to contribute to our community, please send an email to contact@nebulas.io for more details.
